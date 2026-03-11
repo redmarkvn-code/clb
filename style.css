@@ -1,0 +1,174 @@
+body{
+    font-family: Arial;
+    background-color: #faf6f2;
+	text-align: center;
+}
+.Khung{
+    max-width: 900px;
+    margin: auto;
+    padding: 10px;
+}
+
+main p{
+    text-indent: 40px;
+    line-height: 1.6;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+tho{
+    font-family: Arial;
+    background-color: #faf6f2;
+	text-align: center;
+} 
+
+h1{
+    color: red;
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px 8px black;
+	
+	 text-shadow:
+    -2px -2px 0 black,
+     2px -2px 0 black,
+    -2px  2px 0 black,
+     2px  2px 0 black,
+     0px  4px 10px black;
+}
+}
+h2{
+    text-align: center;
+}
+nav{
+    background-color: #c7a98b;
+    padding: 5px;
+    margin: 0;
+}
+
+nav{
+    margin: 15px;
+}
+
+.gioithieu{
+    font-size: 15px;
+	text-align: center;
+}
+nav a:hover{
+    color: red;
+}
+.Dautrang2{
+background-color: #d2b48c;
+color: white;
+padding: 8px;
+font-size: 14px;
+text-align: center;
+}
+nav a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.Dautrang1{
+background-image: url("Anh/Anh04.jpg");
+color: white;
+padding: 100px;
+font-size: 14px;
+text-align: center;
+}
+body{
+    background-color: #fcddd4;
+}
+footer{
+    background-color: #d2b48c;
+    padding: 70px;
+    margin-top: 20px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: left;
+}
+
+.footer-container{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+footer{
+    border-top: 2px solid gray;
+}
+.footer-text{ font-size: 16px;
+}
+form{
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ddd;
+    border: 1px solid gray;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box; 
+}
+
+input[type="radio"]{
+    width: auto;
+}
+.thongtin{
+    margin-left: 120px;
+    text-align: left;
+}
+.chucvu{
+    display: inline-block;
+    width: 300px;
+    font-weight: bold;
+}
+.banghd{
+border-collapse: collapse;
+margin: auto;
+}
+
+.banghd th,
+.banghd td{
+border: 1px solid black;
+padding: 8px 15px;
+text-align: center;
+}
+
+.banghd th{
+background-color: #9db4d3;
+}
+
+.banghd td:first-child{
+background-color: #9db4d3;
+font-weight: bold;
+}
+main p{
+text-align: justify;
+line-height: 1.6;
+font-size: 18px;
+}
+.vanban{
+    text-indent: 40px;
+    text-align: justify;
+    line-height: 1.6;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+video{
+max-width:100%;
+height:auto;
+}
